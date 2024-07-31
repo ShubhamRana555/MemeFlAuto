@@ -5,13 +5,13 @@
 ---
 
 
-<h1 align="center">Auto bot for memefi </h1>
+<h1 align="center">Auto bot for memefl </h1>
 
 
 
 
 > [!NOTE]
-> Hi everyone today we present you our bot for crypto game memefi with which you can automate the whole process in the game which is possible
+> Hi everyone today we present you our bot for crypto game memefl with which you can automate the whole process in the game which is possible
 >
 > 
 ---
